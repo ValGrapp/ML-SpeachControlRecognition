@@ -3,22 +3,24 @@
 ## Installation
 
 ```bash
-cd C:\Projekt\Ordner
+cd ML-SpeachControlRecognition/main
 npm install
 ```
 
 ## Starten
 
+Start the Processing Application.
+
 To start the "Speach to Text Converter":
 ```bash
-cd C:\Projekt\Ordner
+cd ML-SpeachControlRecognition/main
 npm start
 ```
 Open a second Terminal Tab:
 
 To start the Wecksocket connection with Processing and Arduino:
 ```bash
-cd C:\Projekt\Ordner
+cd ML-SpeachControlRecognition/main
 node socketio.js
 ```
 
