@@ -64,7 +64,7 @@
       console.log(mostRecentPhrase);
       document.getElementById("valuespeak").innerHTML = mostRecentPhrase;
       //Control the Arduino with our keywords
-      if (mostRecentPhrase == "on") {
+      if (mostRecentPhrase.includes("on") || mostRecentPhrase.includes("light")) {
         console.log("sucess");
         myFunction();
       }
