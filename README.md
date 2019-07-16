@@ -2,8 +2,8 @@
 The goal of this project was to create a speach recognition and control system. It should detect the voice of a person 
 (who is taking) and what this person is saying. This should enable a more personalised interaction between the system and the user. 
 
-![alt text](https://github.com/ValGrapp/homelessmarvin-src/blob/master/img/intro.jpg)
-![alt text](https://github.com/ValGrapp/homelessmarvin-src/blob/master/img/intro.jpg)
+![alt text](https://github.com/ValGrapp/ML-SpeachControlRecognition/blob/master/img/backend.png)
+![alt text](https://github.com/ValGrapp/ML-SpeachControlRecognition/blob/master/img/middleware.png)
 
 
 ### Speech Recognition
