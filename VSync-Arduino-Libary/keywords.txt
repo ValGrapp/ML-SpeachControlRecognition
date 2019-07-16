@@ -1,6 +1,0 @@
-ValueSender	KEYWORD1
-ValueReceiver	KEYWORD1
-observe	KEYWORD2
-sync	KEYWORD2
-sendAllVariables	KEYWORD2
-variableChanged	KEYWORD2
